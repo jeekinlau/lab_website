@@ -1,15 +1,15 @@
 # SITE SETTINGS
-title: Rootstock Lab                        # Title in top navigation bar (navbar) and <head>
-author: Peter Desmet                    # Used for copyright statement in footer
+title: USDA Peach Rootstock Lab                        # Title in top navigation bar (navbar) and <head>
+author: Jeekin Lau                    # Used for copyright statement in footer
 baseurl: "/lab_website"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
 # SOCIAL PROFILES
 social:
-  email: name@example.com
+  email: jeekinlau@gmail.com
   twitter: jeekinlau
-  github: github_username               # Can also be a github_username/repository
+  github: jeekinlau               # Can also be a github_username/repository
   mastodon: https://mastodon.social/@mastodon_username
   facebook:                             # A URL
   disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com

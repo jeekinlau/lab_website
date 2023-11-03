@@ -1,7 +1,7 @@
 ---
 layout: home
 title: USDA Peach Rootstock Lab
-description: Using Quantitative Genetics and Genomics to produce new rootstocks
+description: USDA-ARS Fruit and Tree Nut Research Station Byron, GA
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
