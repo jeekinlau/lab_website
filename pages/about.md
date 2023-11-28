@@ -19,4 +19,6 @@ Dr. Jeekin Lau was hired in 2023 to take over the program and build on the succe
 ## Research Projects
 
 - Traditional breeding techniques utilizing interspecific crosses to introduce traits from other prunus species into peach germplasm
-- Molecular breeding approaches utilizing markers for developing a Genomic Selection model to select for "difficult to phenotype" traits.
+- Molecular breeding approaches utilizing markers for developing Genomic Selection models to select for "difficult to phenotype" traits.
+- Using genetic studies to discover genetic alleles for disease resistance and other horticultural traits.
+
