@@ -8,11 +8,19 @@
   href: /team/
 - text: Blog
   href: /blog/
-#- text: Documentation
+- text: Breeding Goals
+  menu: # Dropdown menu (one level deep only)
+  - text: Armillaria Root Rot
+    href: /breeding_goals/armillaria/
+  - text: Peach Tree Short Life
+    href: /breeding_goals/ptsl/
+  - text: Dwarfing
+    href: /breeding_goals/dwarfing/re
+#- text: Breeding Goals
 #  menu: # Dropdown menu (one level deep only)
-#  - text: Installation
+#  - text: Armillaria Root Rot
 #    href: /docs/installation/
-#  - text: Configuration
+#  - text: Peach Tree Short Life
 #    href: /docs/configuration/
 #  - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
 #  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
