@@ -14,11 +14,11 @@
   github: jeekinlau
   email: jeekinlau@gmail.com
 
-- name: Opening
-  role: Lab technician
+- name: Chelsea Bailey
+  role: Technician
   image: assets/theme/images/placeholder.jpg
   description: >
-    Looking for a wet-lab technician. Will be responsible for DNA extractions, library prep for NGS or Array genotyping. 
+    Does a little bit of everything. Has both lab and field responsibilites. 
 
 - name: Opening
   role: Field technician
