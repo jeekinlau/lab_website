@@ -5,18 +5,17 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: Link to Southeastern Fruit & Tree Nut Research Labratory
+      href: https://www.ars.usda.gov/southeast-area/byron-ga/fruit-and-tree-nut-research/
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
-      new_window: true
+#    - text: Prestigious and long name of project partner 2
+#      href: http://example.com
+#      new_window: true
 
-  - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
-    links:
+  - description: # E.g. funding acknowledgement. Can be Markdown
+      This work is funded by the United States Department of Agriculture
+    comments_html: View all %{count} <img src="%{../../assets/theme/images/USDA_ARS_logo.png}"> comments
+
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
