@@ -6,7 +6,7 @@ permalink: /breeding_goals/armillaria/
 ---
 
 ## Armillaria Root Rot
-Armillaria Root Rot (ARR) is caused by *Armillaria tabescens*, *Armillaria mellea*, and *Armillaria solidipes*. The fungus attacks the vascular cambium of the crown of the tree which effectively girdles the tree. In the fall, clusters of honey colored mushrooms may appear at the base of infected trees. Infected trees will have white and yellow fungal mats between the bark and wood.
+Armillaria Root Rot (ARR) is caused by *Armillaria tabescens*, *Armillaria mellea*, and other *Armillaria* spp. The fungus attacks the vascular cambium of the crown of the tree which effectively girdles the tree. In the fall, clusters of honey colored mushrooms may appear at the base of infected trees. Infected trees will have white and yellow fungal mats between the bark and wood.
 
 <img align=left src="../../assets/theme/images/5601617-PPT.jpg" alt="drawing" width="300" style="padding-right: 20px"/>   
 
