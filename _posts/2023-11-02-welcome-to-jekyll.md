@@ -5,6 +5,15 @@ tags: [Hello, Introduction]
 background:
     img: /assets/theme/images/welcome.jpeg
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5BVF33Z2MC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5BVF33Z2MC');
+</script>
 ## Welcome to this website!!!
 
 This is the website for the USDA Peach Rootstock Lab led by Jeekin Lau. Jeekin obtained his PhD at Texas A&M University in the department of Horticulture in the area of plant breeding and quantitative genetics. A little about  myself, I studied polyploid genetics in a highly heterozygous auto-polyploid perennial crop garden roses and had the opportunity to learn many genomics approaches to help traditional plant breeders make informed decisions.

@@ -5,6 +5,15 @@ tags: [Hello, Introduction, About Jeekin]
 background:
     img: /assets/theme/images/about_me_banner.jpg
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5BVF33Z2MC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5BVF33Z2MC');
+</script>
 ## About Me
 Hello, as mentioned in the first post, I am Jeekin Lau. Here is a little about me.  
 

@@ -5,6 +5,15 @@ tags: [Experiments, Plant Propagation, Mistbench]
 background:
     img: /assets/theme/images/plant_propagation.jpg
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5BVF33Z2MC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5BVF33Z2MC');
+</script>
 
 ## First Thing Built
 

@@ -4,6 +4,15 @@ description:
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /breeding_goals/armillaria/
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5BVF33Z2MC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5BVF33Z2MC');
+</script>
 
 ## Armillaria Root Rot
 <img align=left src="../../assets/theme/images/5601617-PPT.jpg" alt="drawing" width="300" style="padding-right: 20px"/>   

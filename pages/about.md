@@ -7,6 +7,16 @@ background:
   href: https://unsplash.com/photos/UmncJq4KPcA
 permalink: /about/
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5BVF33Z2MC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5BVF33Z2MC');
+</script>
+
 ## Breeding Goals
 Main breeding goals are to produce rootstock cultivars adapted to the Southeastern United States with resistance to Armillaria Root Rot (ARR) and Peach Tree Short Life (PTSL). In addition to rootstock breeding, also breeds for low chill peach scion cultivars.
 
