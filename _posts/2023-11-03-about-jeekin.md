@@ -2,6 +2,8 @@
 title: About Jeekin
 date: 2023-04-01 17:27:15 +0200
 tags: [Hello, Introduction, About Jeekin]
+background:
+    img: /assets/theme/images/about_me_banner.jpg
 ---
 ## About Me
 Hello, as mentioned in the first post, I am Jeekin Lau. Here is a little about me.  

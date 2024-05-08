@@ -2,6 +2,8 @@
 title: Welcome to the Site
 date: 2023-04-01 17:27:15 +0200
 tags: [Hello, Introduction]
+background:
+    img: /assets/theme/images/welcome.jpeg
 ---
 ## Welcome to this website!!!
 

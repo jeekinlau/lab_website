@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title:  Peach Rootstock               # Title in top navigation bar (navbar) and <head>
+title:  USDA-ARS Peach Rootstock Lab              # Title in top navigation bar (navbar) and <head>
 author: Jeekin Lau                    # Used for copyright statement in footer
 baseurl: "/lab_website"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
@@ -25,8 +25,8 @@ colors:
   footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
-#logo: /assets/theme/images/roots_logo.jpg # Logo in navbar, will be displayed with 30px height
-logo: /assets/theme/images/USDA_ARS_logo.png # Logo in navbar, will be displayed with 30px height
+logo: /assets/theme/images/roots_logo.jpg # Logo in navbar, will be displayed with 30px height
+#logo: /assets/theme/images/USDA_ARS_logo.png # Logo in navbar, will be displayed with 30px height
 
 # BUILD SETTINGS
 markdown: kramdown
