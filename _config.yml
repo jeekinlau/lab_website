@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title:  USDA-ARS Peach Rootstock Lab              # Title in top navigation bar (navbar) and <head>
+title: USDA Peach Rootstock Lab              # Title in top navigation bar (navbar) and <head>
 author: Jeekin Lau                    # Used for copyright statement in footer
 baseurl: "/lab_website"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
