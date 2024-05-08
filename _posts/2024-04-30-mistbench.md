@@ -3,7 +3,7 @@ title: Built first mist bench
 date: 2023-04-30 17:27:15 +0200
 tags: [Experiments, Plant Propagation, Mistbench]
 background:
-    img: /assets/theme/images/plant_propagation.jpg
+    img: /assets/theme/images/Plant_Propagation.jpg
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5BVF33Z2MC"></script>
