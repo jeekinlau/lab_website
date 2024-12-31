@@ -18,7 +18,7 @@ background:
 ## Last update of the year:
 
 
-Chlesea has been hard at work finding Armillaria mushrooms in the field on both peach and pecan trees. She was able to grow some Armillaria cultures from mushrooms that she collected. At first we weren't sure if they were Armillaria or something else. But the rhizomorphs pictured below give us some certainty that we have cultured Armillaria. In the near future we will run some PCR tests to see if we actually have Armillaria.
+Chelsea has been hard at work finding Armillaria mushrooms in the field on both peach and pecan trees. She was able to grow some Armillaria cultures from mushrooms that she collected. At first we weren't sure if they were Armillaria or something else. But the rhizomorphs pictured below give us some certainty that we have cultured Armillaria. In the near future we will run some PCR tests to see if we actually have Armillaria.
 
 This is important work because although we have some old cultures of Armillaria in the Fridges on site, we are not sure if they are alive or whether they were collected on site here. We are hoping to use these culture to use as inoculum for testing resistance to the fungal pathogen on new seedlings we are generating.
 
