@@ -23,6 +23,6 @@ Chelsea has been hard at work finding Armillaria mushrooms in the field on both 
 This is important work because although we have some old cultures of Armillaria in the Fridges on site, we are not sure if they are alive or whether they were collected on site here. We are hoping to use these culture to use as inoculum for testing resistance to the fungal pathogen on new seedlings we are generating.
 
 <p float="left">
-<img align=left src="../../../assets/theme/images/IMG_5954.jpg" alt="drawing" width="38%" style="padding-right: 10px"/>   
-<img align=left src="../../../assets/theme/images/IMG_5970.jpg" alt="drawing" width="62%" style="padding-right: 10px"/>   
+<img align=left src="../../../assets/theme/images/IMG_5954.jpg" alt="drawing" width="40%" style="padding-right: 10px"/>   
+<img align=left src="../../../assets/theme/images/IMG_5970.jpg" alt="drawing" width="60%" style="padding-right: 10px"/>   
 </p>
