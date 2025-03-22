@@ -21,11 +21,10 @@ The integral part of all breeding programs is crossing season. And in the case o
 
 Here are some pictures of the whole process:
 
-Collecting and drying pollen
 
 <p float="left">
 <img align=left src="../../../assets/theme/images/IMG_6126.jpeg" alt="drawing" width="100%" style="padding-right: 10px"/>   
-<center>(Collecting and drying pollen)</center>
+<center>(Anthers drying on paper for pollen collection)</center>
 </p>
 
 <p float="left">
