@@ -21,6 +21,4 @@ This section is useful links for code developed by me and collaborators and mayb
 
 [Orchard Visualization WebApp](https://jeekinlau.github.io/tree_visualizer/)
 
-<p>
-<iframe src="https://jeekinlau.github.io/byron_rainfall/" width="100%" height="1600px" frameborder="0" style="border:0; display:block;"></iframe>       
-</p>
+

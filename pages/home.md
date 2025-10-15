@@ -23,10 +23,6 @@ The USDA-ARS peach rootstock lab is focused on developing rootstocks for the Sou
 ## Focus
 The lab has a wide focus of research from horticultural practices to genomics research. All with the aim of helping growers in the Southeastern United States with problems that they currently face, and anticipate facing in the future. Thus some research is focused on practical horticultural practices and other research is focused on future needs, like lower chill varieties as the Southeastern USA is accumulating less chill hours than observed historically. 
 
-<p>
-<iframe src="https://jeekinlau.github.io/byron_rainfall/" width="100%" height="1600px" frameborder="0" style="border:0; display:block;"></iframe>       
-</p>
-
 ## News blog posts 
 
 
