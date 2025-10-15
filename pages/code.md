@@ -23,5 +23,5 @@ This section is useful links for code developed by me and collaborators and mayb
 
 <p>
 <h2> Rainfall and Temps </h2>
-<iframe src="https://jeekinlau.github.io/byron_rainfall/" width="100%" height="300%"> /iframe>       
+<iframe src="https://jeekinlau.github.io/byron_rainfall/" width="100%" height="800px" frameborder="0" style="border:0; display:block;"></iframe>       
 </p>
