@@ -33,7 +33,8 @@ Dr. Jeekin Lau was hired in 2023 to take over the program and build on the succe
 - Using genetic studies to discover genetic alleles for disease resistance and other horticultural traits.
 
 ## Byron Station Historical weather
-
+7 day historical weather data to help determine irrigation needs
 <p>
 <iframe src="https://jeekinlau.github.io/byron_rainfall/" width="100%" height="1600px" frameborder="0" style="border:0; display:block;"></iframe>       
 </p>
+
